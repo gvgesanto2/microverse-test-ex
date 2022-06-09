@@ -1,0 +1,23 @@
+{
+  "name": "microverse-test-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvgesanto2/microverse-test-ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvgesanto2/microverse-test-ex/issues"
+  },
+  "homepage": "https://github.com/gvgesanto2/microverse-test-ex#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
